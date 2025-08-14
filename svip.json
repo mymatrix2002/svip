@@ -76,7 +76,7 @@
             "name": "直播┃聚合",
             "type": 3,
             "api": "csp_LiveLm",
-            "jar": "https://vip.123pan.cn/1819144136/16066818",
+            "jar": "./jar/jd.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -2294,16 +2294,6 @@
             },
             "ext": "./js/JRKAN直播.js"
         },
-        {
-            "key":"游戏直播",
-            "name":"游戏｜直播",
-            "type":3,
-            "api":"csp_Living",
-            "jar": "./jar/Yoursmile.jar",
-            "searchable":1,
-            "changeable":0,
-            "ext":"https://lemonlive25.pages.dev"
-            },
         {
             "key": "快手直播",
             "name": "快手｜直播",
