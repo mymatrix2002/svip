@@ -1,4 +1,4 @@
-﻿[
+﻿﻿[
   {
     "id": "modouziyuan",
     "name": "魔都资源",
@@ -276,6 +276,16 @@
     "name": "速播资源",
     "api": "https://subocj.com/api.php/provide/vod/at/json",
     "logo": "https://subocj.com/statics/img/logo_max_f.png",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "duihuanziyuan$",
+    "name": "兑换资源",
+    "api": "https://gctf.tfdh.top/api.php/provide/vod",
     "nsfw": false,
     "type": 0,
     "extra": {
