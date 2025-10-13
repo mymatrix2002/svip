@@ -45,6 +45,10 @@
       "url": "https://欧歌.v.nxog.top/m/"
     },
     {
+      "name": "乐哥📚在线",
+      "url": "https://乐哥.xyz/TV/Zy.json"
+    },
+    {
       "name": "老虎📚在线",
       "url": "http://tv.laohu.cool/tvbox.json"
     },
@@ -189,8 +193,20 @@
       "url": "https://d.kstore.dev/download/8975/刺刺专用音乐接口.json"
     },
     {
+      "name": "剧场📚在线",
+      "url": "https://乐哥.xyz/dj.json"
+    },
+    {
+      "name": "听书📚在线",
+      "url": "https://乐哥.xyz/Ting/Tshu.json"
+    },
+    {
       "name": "CandyMu📚在线",
       "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
+    },
+    {
+      "name": "欧歌备用📚在线",
+      "url": "https://xn--biib-rp5imh.v.nxog.top/apitv.php"
     },
     {
       "name": "各种网盘📚在线",
