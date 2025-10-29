@@ -2759,7 +2759,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XBPQ/狐狸君.json"
-        },
+        }，
         {
             "key": "布谷TV",
             "name": "布谷TV｜磁力",
@@ -2769,7 +2769,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XBPQ/布谷TV.json"
-        },
+        }，
         {
             "key": "Mp4电影",
             "name": "Mp4电影｜磁力",
@@ -2787,7 +2787,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        }，
         {
             "key": "美剧天堂",
             "name": "美剧天堂｜磁力",
@@ -2796,7 +2796,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        }，
         {
             "key": "电影天堂",
             "name": "电影天堂｜磁力",
@@ -2805,7 +2805,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        }，
        {
        "key": "幸福｜拾光",
        "name": "幸福｜拾光",
@@ -3353,12 +3353,12 @@
 {
             "name": "AI拾光",
             "type": 0,
-            "url": "https://ghproxy.net/raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
             "timeout": 10
-        },
+}，
         {
             "name": "AIGuovin",
             "type": 0,
@@ -3366,7 +3366,7 @@
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "playerType": 2,
             "timeout": 10
-        },
+        }，
         {
             "name": "看球",
             "type": 0,
@@ -3388,13 +3388,13 @@
   "type": 3,
   "api": "./py/kzb.py",
   "ext": "68747470733a2f2f6a7a62356b716c6e2e6875616a69616564752e636f6d2f70726f642d6170692f697074762f676574497074764c697374"
-},
+}，
         {
       "name": "smt直播魔法",
       "type": 3,
       "api": "./py/live_smt.py",
       "ext": {}
-    },
+    }，
     {
       "name": "litv直播魔法",
       "type": 3,
@@ -3406,38 +3406,32 @@
             "type": 0,
             "url": "https://ghproxy.cn/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt",
             "playerType": 1
-        },
+        }，
         {
             "name": "smt直播",
             "type": 0,
             "url": "http://iptv.herissmon.dpdns.org/jiekou/live.txt",
             "ua": "Herissmon/2016",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-       {
-            "name": "拾光AI",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u",
-            "playerType": 1
-       },
+        }，
         {
-            "name": "网络Live",
+            "name": "网络Live魔法",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Live",
             "playerType": 2,
             "timeout": 10
-        },
+        }，
         {
-            "name": "电视Live",
+            "name": "电视Live魔法",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Gather",
             "playerType": 2,
             "timeout": 10
         },
         {
-            "name": "范明明Live",
+            "name": "冰茶",
             "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+            "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
             "playerType": 2,
             "timeout": 10
         },
@@ -3697,4 +3691,5 @@
     "ads": [
         "static-mozai.4gtv.tv"
     ]
+
 }
